@@ -1,6 +1,7 @@
 ---
 category: tech
 tags: blog github-pages jekyll minimal-mistakes staticman
+excerpt: ''
 ---
 
 # Why
